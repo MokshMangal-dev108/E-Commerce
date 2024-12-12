@@ -100,6 +100,7 @@ To run this project, ensure you have the following installed:
    cd backend
    mvn spring-boot:run
    ```
+   Frontend is in this Repo : https://github.com/MokshMangal-dev108/E-commerce-Frontend
 2. Start the frontend server:
    ```bash
    cd ../frontend
